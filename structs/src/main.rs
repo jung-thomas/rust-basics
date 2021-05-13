@@ -60,6 +60,8 @@ fn main() {
     println!("Can rect1 hold rect3? {}", rect1.can_hold(&rect3));
 
     let _sq = Rectangle::square(3);
+
+    
 }
 
 /* fn area(rectangle: &Rectangle) -> u32 {
